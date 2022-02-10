@@ -1,0 +1,14 @@
+f (test expression1) {
+   // statement(s)
+}
+else if(test expression2) {
+   // statement(s)
+}
+else if (test expression3) {
+   // statement(s)
+}
+.
+.
+else {
+   // statement(s)
+}
